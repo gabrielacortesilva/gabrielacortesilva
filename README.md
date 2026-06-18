@@ -5,4 +5,4 @@
 - Amo me maquiar 💄
 - Faço academia
 
-- ![] (https://media.tenor.com/tiOF6SigCaEAAAAi/funny-dog.gif)
+- ![](https://media.tenor.com/tiOF6SigCaEAAAAi/funny-dog.gif)
